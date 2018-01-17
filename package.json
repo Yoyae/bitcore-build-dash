@@ -1,6 +1,6 @@
 {
   "name": "bitcore-build-monoeci",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "A helper for common tasks to build bitcore-monoeci modules'",
   "main": "index.js",
   "scripts": {
@@ -33,6 +33,10 @@
     {
       "name": "Matias Alejo Garcia",
       "email": "ematiu@gmail.com"
+    },
+    {
+      "name": "Francois Gineste",
+      "email": "gingin.fr@gmail.com"
     }
   ],
   "license": "MIT",
